@@ -7,6 +7,7 @@
 
                     <div class="card-body">
                         I'm an example component.
+                        <router-link to="/exam">Back to Exam</router-link>
                     </div>
                 </div>
             </div>
@@ -18,6 +19,6 @@
     export default {
         mounted() {
             console.log('Component mounted.')
-        }
+        },
     }
 </script>

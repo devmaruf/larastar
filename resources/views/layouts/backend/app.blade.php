@@ -60,8 +60,7 @@
         <div class="content-header row">
         </div>
         <div id="app" class="content-body">
-            //content here
-
+            <main-content></main-content>
         </div>
     </div>
 </div>
